@@ -1,3 +1,9 @@
+
+### 主要内容包括
+|   :blue_heart:|:blue_heart:|:blue_heart: |:blue_heart:|:blue_heart:|:blue_heart:|
+| --------   | :----:   | :----: |:----: |:----: |:----: |
+| jvm参数类型:alien:|jinfo & jps(参数和进程查看):alien:|jstat(类加载、垃圾收集、JIT 编译):alien: |jmap+MAT(内存溢出):alien:|jstack(线程、死循环、死锁):alien:|JVisualVM(本地和远程可视化监控:alien:|
+|使用 BTrace进行拦截调试:alien:|Tomcat 性能监控与调优:alien:| Nginx 性能监控与调优:alien:|JVM 层 GC 调优:alien:|JAVA代码层调优:alien: |:alien:|
 #### 1.JVM的参数类型
 ```
 标准参数（各版本中保持稳定）
