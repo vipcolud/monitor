@@ -1006,6 +1006,7 @@ log.info("orderId:{}", orderId); 推荐（没有字符串拼接）
 一个有故事的程序员
 
 微信扫描二维码，关注我的公众号
- https://mmbiz.qpic.cn/mmbiz_jpg/d7tnZXLg9m8vyCxEmcVwcdoaFfaEJAHRYH32r3a4G3Pgg854j1qW1wBulzII2J9ntcKCW1eM52pHd1HD5ZcYicQ/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1
-
+ ![image](https://mmbiz.qpic.cn/mmbiz_jpg/d7tnZXLg9m8vyCxEmcVwcdoaFfaEJAHRYH32r3a4G3Pgg854j1qW1wBulzII2J9ntcKCW1eM52pHd1HD5ZcYicQ/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+ 
+或者加我微信1414200300 一起讨论java技术
 课程链接：https://coding.imooc.com/class/241.html
