@@ -999,5 +999,13 @@ Integer底层使用缓存，因为没有1000没有缓存，所以要new
 21. 日志中参数拼接使用占位符
 log.info("orderId:" + orderId); 不推荐
 log.info("orderId:{}", orderId); 推荐（没有字符串拼接）
+ 
+ < END >
+
+程序员NBA
+一个有故事的程序员
+
+微信扫描二维码，关注我的公众号
+ https://mmbiz.qpic.cn/mmbiz_jpg/d7tnZXLg9m8vyCxEmcVwcdoaFfaEJAHRYH32r3a4G3Pgg854j1qW1wBulzII2J9ntcKCW1eM52pHd1HD5ZcYicQ/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1
 
 课程链接：https://coding.imooc.com/class/241.html
